@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{40917797-AEB1-4B8B-922C-8CA21339B70F}</ProjectGuid>
+    <ProjectGuid>{E098D933-58B7-46ED-8316-62D134286EBF}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Exercise</RootNamespace>
-    <AssemblyName>Exercise</AssemblyName>
+    <RootNamespace>Serialization</RootNamespace>
+    <AssemblyName>Serialization</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,22 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Divisibility.cs" />
-    <Compile Include="Duplicate.cs" />
-    <Compile Include="Factorial.cs" />
-    <Compile Include="Guess.cs" />
-    <Compile Include="Image.cs" />
-    <Compile Include="Likes.cs" />
-    <Compile Include="MaxNumber.cs" />
-    <Compile Include="NewSoln.cs" />
+    <Compile Include="Employee.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Reverse.cs" />
-    <Compile Include="Sort.cs" />
-    <Compile Include="Speed.cs" />
-    <Compile Include="Unique.cs" />
-    <Compile Include="UserInputSum.cs" />
-    <Compile Include="Validnum.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

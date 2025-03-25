@@ -1,6 +1,4 @@
-﻿using Exercise;
-
-namespace Exercise
+﻿namespace Exercise
 {
 }
 
@@ -8,7 +6,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        Duplicate.DuplicateNum();
+        //Duplicate.DuplicateNum();
         //Unique.UniqueNum();
         //Reverse.ReverseName();
         //Likes.LikesCount();
