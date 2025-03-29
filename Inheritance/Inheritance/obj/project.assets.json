@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DELL\\source\\repos\\Inheritance\\Inheritance\\Inheritance.csproj",
+      "projectUniqueName": "C:\\Users\\DELL\\source\\repos\\Exercise\\Inheritance\\Inheritance\\Inheritance.csproj",
       "projectName": "Inheritance",
-      "projectPath": "C:\\Users\\DELL\\source\\repos\\Inheritance\\Inheritance\\Inheritance.csproj",
+      "projectPath": "C:\\Users\\DELL\\source\\repos\\Exercise\\Inheritance\\Inheritance\\Inheritance.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DELL\\source\\repos\\Inheritance\\Inheritance\\obj\\",
+      "outputPath": "C:\\Users\\DELL\\source\\repos\\Exercise\\Inheritance\\Inheritance\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
